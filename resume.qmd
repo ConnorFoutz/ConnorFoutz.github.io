@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Connor Foutz CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Connor Foutz
+Aspiring mathematician, data analyst and lifelong student
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
